@@ -12,9 +12,8 @@ Extra Contributors:
   Tsukye#2063 (Discord),
   [Q]#5051 (Discord)
 
+To add this to your client, you can watch this video
+[![To add this to your client, you can watch this video](https://img.youtube.com/vi/9vPfLHcQ1wQ/0.jpg)](https://www.youtube.com/watch?v=9vPfLHcQ1wQ)
+
 Here's a preview of the filter functioning on IS-A:
 ![Preview](https://user-images.githubusercontent.com/59666778/123615428-25067080-d7ba-11eb-99ca-f987b735c5d0.png)
-
-To add this to your client, you can watch this video :
-
-
